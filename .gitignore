@@ -5,3 +5,7 @@ node_modules
 #ignore test.md
 
 test.md
+
+# ignore hint-report
+
+hint-report
