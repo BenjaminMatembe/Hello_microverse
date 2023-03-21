@@ -5,7 +5,8 @@
   "main": "index.js",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
-    "@babel/core": "^7.21.3"
+    "@babel/core": "^7.21.3",
+    "hint": "^7.1.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
