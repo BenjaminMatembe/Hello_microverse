@@ -73,8 +73,8 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    Html
-    CSS
+    <li>HTML</li>
+    <li>CSS</li>
   </ul>
 </details>
 
@@ -96,8 +96,11 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
-
-  coming soon
+<ul>
+    <li><a href="http://127.0.0.1:5500/Hello_microverse/index.html">Live Demo</a></li>
+    
+  </ul>
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,23 +117,28 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 
-
- run open with live server on the index.html
+Clone the code from project using terminal into your local machine and then open with live server on the index.html
 
 
 
 ### Setup
 
-set up SSH key
-Clone this repository to your desired folder using git clone git@github.com:BenjaminMatembe/Hello_microverse.git
+
+Clone this repository to your desired folder using:
+
+ <h1>Setup SSH-key and use this command</h1>
+ git clone git@github.com:BenjaminMatembe/Hello_microverse.git
+
+ <h1>Using HTTPS</h1>
+
+ git clone https://github.com/BenjaminMatembe/Hello_microverse.git
+
 
 
 
 ### Install
 
-Install this project with:
-
-node_modules by running npm install or yarn install
+Install node_modules dependencies by running npm install or yarn install
 
 ### Usage
 
@@ -193,7 +201,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project you can reuse the code and suggest adjustments too.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,25 +211,10 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my coding partners for the help rendered when doing this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
