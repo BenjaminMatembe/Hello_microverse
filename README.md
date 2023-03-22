@@ -124,7 +124,7 @@ Clone the code from project using terminal into your local machine and then open
 ### Setup
 
 
-Clone this repository to your desired folder using:
+>Clone this repository to your desired folder using:
 
  <h1>Setup SSH-key and use this command</h1>
  git clone git@github.com:BenjaminMatembe/Hello_microverse.git
@@ -138,25 +138,27 @@ Clone this repository to your desired folder using:
 
 ### Install
 
-Install node_modules dependencies by running npm install or yarn install
+Install node_modules dependencies by:
+
+>running npm install or yarn install
 
 ### Usage
 
 To run the project, execute the following command:
 
-right click on index.html and open with live server
+>right click on index.html and open with live server
 
 ### Run tests
 
 To run tests, run the following command:
 
-coming soon
+>coming soon
 
 ### Deployment
 
 You can deploy this project using:
 
-coming soon
+>coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
