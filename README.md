@@ -1,14 +1,14 @@
 <div align="center">
-  ![](https://img.shields.io/badge/Microverse-blueviolet)
-  <h3><b>Hello-Microverse</b></h3>
+ 
+ <h3><b>Hello-Microverse</b></h3>
 
-  ![SCREENSHOT](microverse.png)
+  ![SCREENSHOT](microverse1.png)
 </div>
  My first microverse project to show the abilities of the tools and best practices learned.
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 Hello_Microverse <a name="about-project"></a>
 
-**[Hello_Microverse]** is a Setup of the project repository
+**Hello_Microverse** is a Setup of the project repository
 
 ## 🛠 Built With <a name="built-with"></a>
   
