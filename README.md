@@ -2,7 +2,7 @@
  
  <h3><b>Hello-Microverse</b></h3>
 
-  ![SCREENSHOT](microverse1.png)
+  ![SCREENSHOT](micro.png)
 </div>
  My first microverse project to show the abilities of the tools and best practices learned.
 
